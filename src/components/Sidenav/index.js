@@ -11,9 +11,7 @@ import SideNav, {
 
 import HomeIcon from '@mui/icons-material/Home';
 import AppRegistrationIcon from '@mui/icons-material/AppRegistration';
-import BarChartIcon from '@mui/icons-material/BarChart';
 import AssignmentReturnedIcon from '@mui/icons-material/AssignmentReturned';
-import DataArrayIcon from '@mui/icons-material/DataArray';
 
 import logo from '../../assets/logo_proj.png';
 
@@ -33,13 +31,7 @@ const MainLogo = styled.img`
   width: 200px;
 `;
 
-const Sidenav = ({
-  onHomeClicked,
-  onRegisterClicked,
-  onDatasetClicked,
-  onChartClicked,
-  onReportClicked
-}) => {
+const Sidenav = ({ onHomeClicked, onRegisterClicked, onReportClicked }) => {
   return (
     <SideNav
       expanded
@@ -51,13 +43,7 @@ const Sidenav = ({
           case 'register':
             onRegisterClicked();
             break;
-          case 'dataset':
-            onDatasetClicked();
-            break;
-          case 'chart':
-            onChartClicked();
-            break;
-          case 'report':
+          case 'reports':
             onReportClicked();
             break;
           default:
@@ -86,24 +72,6 @@ const Sidenav = ({
             </IconWrapper>
           </NavIcon>
           <NavText>Cadastrar</NavText>
-        </NavItem>
-
-        <NavItem eventKey='dataset'>
-          <NavIcon>
-            <IconWrapper>
-              <DataArrayIcon />
-            </IconWrapper>
-          </NavIcon>
-          <NavText>Dataset</NavText>
-        </NavItem>
-
-        <NavItem eventKey='charts'>
-          <NavIcon>
-            <IconWrapper>
-              <BarChartIcon />
-            </IconWrapper>
-          </NavIcon>
-          <NavText>Gráficos</NavText>
         </NavItem>
 
         <NavItem eventKey='reports'>
