@@ -1,0 +1,4002 @@
+[
+  {
+    "id": 1,
+    "doenca": "Malaria",
+    "casos": 537,
+    "cidade": "Macau",
+    "regiao": "Nordeste",
+    "date": "2022-01-18"
+  },
+  {
+    "id": 2,
+    "doenca": "Dengue",
+    "casos": 208,
+    "cidade": "Miami",
+    "regiao": "Sul",
+    "date": "2022-02-08"
+  },
+  {
+    "id": 3,
+    "doenca": "Malaria",
+    "casos": 403,
+    "cidade": "Montevideo",
+    "regiao": "Sul",
+    "date": "2022-03-27"
+  },
+  {
+    "id": 4,
+    "doenca": "Dengue",
+    "casos": 86,
+    "cidade": "Iquitos",
+    "regiao": "Sudeste",
+    "date": "2022-03-21"
+  },
+  {
+    "id": 5,
+    "doenca": "Dengue",
+    "casos": 170,
+    "cidade": "Luxembourg (city)",
+    "regiao": "Sudeste",
+    "date": "2022-02-27"
+  },
+  {
+    "id": 6,
+    "doenca": "Dengue",
+    "casos": 582,
+    "cidade": "George Town",
+    "regiao": "Sudeste",
+    "date": "2022-02-13"
+  },
+  {
+    "id": 7,
+    "doenca": "Dengue",
+    "casos": 614,
+    "cidade": "Nairobi",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-04"
+  },
+  {
+    "id": 8,
+    "doenca": "Dengue",
+    "casos": 954,
+    "cidade": "Hyderabad",
+    "regiao": "Nordeste",
+    "date": "2022-02-25"
+  },
+  {
+    "id": 9,
+    "doenca": "Zika",
+    "casos": 793,
+    "cidade": "Maracaibo",
+    "regiao": "Sudeste",
+    "date": "2022-02-04"
+  },
+  {
+    "id": 10,
+    "doenca": "Malaria",
+    "casos": 781,
+    "cidade": "Columbus",
+    "regiao": "Sul",
+    "date": "2022-03-12"
+  },
+  {
+    "id": 11,
+    "doenca": "Malaria",
+    "casos": 570,
+    "cidade": "Yaren District",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-13"
+  },
+  {
+    "id": 12,
+    "doenca": "Malaria",
+    "casos": 360,
+    "cidade": "Santo Domingo",
+    "regiao": "Norte",
+    "date": "2022-01-29"
+  },
+  {
+    "id": 13,
+    "doenca": "Zika",
+    "casos": 254,
+    "cidade": "London",
+    "regiao": "Centro Oeste",
+    "date": "2022-03-15"
+  },
+  {
+    "id": 14,
+    "doenca": "Malaria",
+    "casos": 931,
+    "cidade": "Amritsar",
+    "regiao": "Centro Oeste",
+    "date": "2022-03-13"
+  },
+  {
+    "id": 15,
+    "doenca": "Zika",
+    "casos": 311,
+    "cidade": "Wonsan",
+    "regiao": "Nordeste",
+    "date": "2022-01-07"
+  },
+  {
+    "id": 16,
+    "doenca": "Dengue",
+    "casos": 801,
+    "cidade": "Espoo",
+    "regiao": "Sudeste",
+    "date": "2022-01-04"
+  },
+  {
+    "id": 17,
+    "doenca": "Zika",
+    "casos": 806,
+    "cidade": "Juneau",
+    "regiao": "Nordeste",
+    "date": "2022-01-18"
+  },
+  {
+    "id": 18,
+    "doenca": "Dengue",
+    "casos": 996,
+    "cidade": "Timbuktu",
+    "regiao": "Nordeste",
+    "date": "2022-01-03"
+  },
+  {
+    "id": 19,
+    "doenca": "Zika",
+    "casos": 464,
+    "cidade": "Auckland",
+    "regiao": "Sudeste",
+    "date": "2022-03-05"
+  },
+  {
+    "id": 20,
+    "doenca": "Dengue",
+    "casos": 652,
+    "cidade": "Riga",
+    "regiao": "Sudeste",
+    "date": "2022-01-05"
+  },
+  {
+    "id": 21,
+    "doenca": "Zika",
+    "casos": 464,
+    "cidade": "Gold Coast",
+    "regiao": "Sul",
+    "date": "2022-01-09"
+  },
+  {
+    "id": 22,
+    "doenca": "Dengue",
+    "casos": 955,
+    "cidade": "Da Nang",
+    "regiao": "Sudeste",
+    "date": "2022-03-23"
+  },
+  {
+    "id": 23,
+    "doenca": "Dengue",
+    "casos": 235,
+    "cidade": "Castries",
+    "regiao": "Sul",
+    "date": "2022-03-12"
+  },
+  {
+    "id": 24,
+    "doenca": "Malaria",
+    "casos": 424,
+    "cidade": "Birmingham",
+    "regiao": "Sul",
+    "date": "2022-01-09"
+  },
+  {
+    "id": 25,
+    "doenca": "Dengue",
+    "casos": 651,
+    "cidade": "Sarajevo",
+    "regiao": "Nordeste",
+    "date": "2022-02-13"
+  },
+  {
+    "id": 26,
+    "doenca": "Malaria",
+    "casos": 542,
+    "cidade": "Stockholm",
+    "regiao": "Sul",
+    "date": "2022-03-01"
+  },
+  {
+    "id": 27,
+    "doenca": "Zika",
+    "casos": 531,
+    "cidade": "Taipei",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-28"
+  },
+  {
+    "id": 28,
+    "doenca": "Malaria",
+    "casos": 665,
+    "cidade": "Quetzaltenango",
+    "regiao": "Sudeste",
+    "date": "2022-02-11"
+  },
+  {
+    "id": 29,
+    "doenca": "Dengue",
+    "casos": 139,
+    "cidade": "Castries",
+    "regiao": "Sudeste",
+    "date": "2022-03-23"
+  },
+  {
+    "id": 30,
+    "doenca": "Dengue",
+    "casos": 442,
+    "cidade": "Rosario",
+    "regiao": "Nordeste",
+    "date": "2022-03-24"
+  },
+  {
+    "id": 31,
+    "doenca": "Malaria",
+    "casos": 687,
+    "cidade": "Canberra",
+    "regiao": "Sul",
+    "date": "2022-03-16"
+  },
+  {
+    "id": 32,
+    "doenca": "Zika",
+    "casos": 839,
+    "cidade": "Xining",
+    "regiao": "Norte",
+    "date": "2022-03-10"
+  },
+  {
+    "id": 33,
+    "doenca": "Dengue",
+    "casos": 389,
+    "cidade": "Marrakech",
+    "regiao": "Norte",
+    "date": "2022-01-11"
+  },
+  {
+    "id": 34,
+    "doenca": "Zika",
+    "casos": 818,
+    "cidade": "Port Said",
+    "regiao": "Norte",
+    "date": "2022-03-28"
+  },
+  {
+    "id": 35,
+    "doenca": "Dengue",
+    "casos": 519,
+    "cidade": "Vilnius",
+    "regiao": "Centro Oeste",
+    "date": "2022-03-29"
+  },
+  {
+    "id": 36,
+    "doenca": "Zika",
+    "casos": 719,
+    "cidade": "Bogotá",
+    "regiao": "Sul",
+    "date": "2022-02-10"
+  },
+  {
+    "id": 37,
+    "doenca": "Dengue",
+    "casos": 359,
+    "cidade": "Toronto",
+    "regiao": "Centro Oeste",
+    "date": "2022-03-13"
+  },
+  {
+    "id": 38,
+    "doenca": "Malaria",
+    "casos": 211,
+    "cidade": "Mandurah",
+    "regiao": "Sudeste",
+    "date": "2022-03-07"
+  },
+  {
+    "id": 39,
+    "doenca": "Zika",
+    "casos": 278,
+    "cidade": "Riverside",
+    "regiao": "Sul",
+    "date": "2022-03-14"
+  },
+  {
+    "id": 40,
+    "doenca": "Zika",
+    "casos": 431,
+    "cidade": "Saint-Denis",
+    "regiao": "Nordeste",
+    "date": "2022-01-26"
+  },
+  {
+    "id": 41,
+    "doenca": "Dengue",
+    "casos": 314,
+    "cidade": "Rockhampton",
+    "regiao": "Sudeste",
+    "date": "2022-03-04"
+  },
+  {
+    "id": 42,
+    "doenca": "Malaria",
+    "casos": 185,
+    "cidade": "Phnom Penh",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-16"
+  },
+  {
+    "id": 43,
+    "doenca": "Dengue",
+    "casos": 250,
+    "cidade": "Dalian",
+    "regiao": "Sudeste",
+    "date": "2022-02-05"
+  },
+  {
+    "id": 44,
+    "doenca": "Dengue",
+    "casos": 415,
+    "cidade": "Madrid",
+    "regiao": "Sudeste",
+    "date": "2022-01-23"
+  },
+  {
+    "id": 45,
+    "doenca": "Dengue",
+    "casos": 929,
+    "cidade": "Zapopan",
+    "regiao": "Norte",
+    "date": "2022-01-30"
+  },
+  {
+    "id": 46,
+    "doenca": "Dengue",
+    "casos": 334,
+    "cidade": "Nicosia",
+    "regiao": "Sul",
+    "date": "2022-01-09"
+  },
+  {
+    "id": 47,
+    "doenca": "Dengue",
+    "casos": 832,
+    "cidade": "Tamale",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-14"
+  },
+  {
+    "id": 48,
+    "doenca": "Malaria",
+    "casos": 33,
+    "cidade": "Kaohsiung",
+    "regiao": "Nordeste",
+    "date": "2022-03-17"
+  },
+  {
+    "id": 49,
+    "doenca": "Malaria",
+    "casos": 282,
+    "cidade": "Nouméa",
+    "regiao": "Sudeste",
+    "date": "2022-03-19"
+  },
+  {
+    "id": 50,
+    "doenca": "Malaria",
+    "casos": 351,
+    "cidade": "Pago Pago",
+    "regiao": "Sudeste",
+    "date": "2022-01-29"
+  },
+  {
+    "id": 51,
+    "doenca": "Dengue",
+    "casos": 278,
+    "cidade": "Nukulaelae",
+    "regiao": "Nordeste",
+    "date": "2022-02-21"
+  },
+  {
+    "id": 52,
+    "doenca": "Malaria",
+    "casos": 55,
+    "cidade": "Vienna",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-14"
+  },
+  {
+    "id": 53,
+    "doenca": "Dengue",
+    "casos": 899,
+    "cidade": "Melbourne",
+    "regiao": "Norte",
+    "date": "2022-02-22"
+  },
+  {
+    "id": 54,
+    "doenca": "Dengue",
+    "casos": 345,
+    "cidade": "Las Vegas",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-14"
+  },
+  {
+    "id": 55,
+    "doenca": "Malaria",
+    "casos": 81,
+    "cidade": "Lagos",
+    "regiao": "Sul",
+    "date": "2022-01-23"
+  },
+  {
+    "id": 56,
+    "doenca": "Dengue",
+    "casos": 889,
+    "cidade": "Bogotá",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-10"
+  },
+  {
+    "id": 57,
+    "doenca": "Malaria",
+    "casos": 832,
+    "cidade": "Caracas",
+    "regiao": "Sudeste",
+    "date": "2022-03-15"
+  },
+  {
+    "id": 58,
+    "doenca": "Malaria",
+    "casos": 201,
+    "cidade": "Nukus",
+    "regiao": "Nordeste",
+    "date": "2022-03-28"
+  },
+  {
+    "id": 59,
+    "doenca": "Dengue",
+    "casos": 690,
+    "cidade": "Shenzhen",
+    "regiao": "Sudeste",
+    "date": "2022-03-24"
+  },
+  {
+    "id": 60,
+    "doenca": "Malaria",
+    "casos": 586,
+    "cidade": "Incheon",
+    "regiao": "Nordeste",
+    "date": "2022-01-22"
+  },
+  {
+    "id": 61,
+    "doenca": "Zika",
+    "casos": 356,
+    "cidade": "Iquitos",
+    "regiao": "Sudeste",
+    "date": "2022-01-14"
+  },
+  {
+    "id": 62,
+    "doenca": "Dengue",
+    "casos": 420,
+    "cidade": "Kandy",
+    "regiao": "Norte",
+    "date": "2022-02-18"
+  },
+  {
+    "id": 63,
+    "doenca": "Malaria",
+    "casos": 243,
+    "cidade": "Srinagar",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-01"
+  },
+  {
+    "id": 64,
+    "doenca": "Dengue",
+    "casos": 346,
+    "cidade": "Dakar",
+    "regiao": "Sudeste",
+    "date": "2022-03-26"
+  },
+  {
+    "id": 65,
+    "doenca": "Dengue",
+    "casos": 214,
+    "cidade": "Alexandria",
+    "regiao": "Nordeste",
+    "date": "2022-01-22"
+  },
+  {
+    "id": 66,
+    "doenca": "Malaria",
+    "casos": 825,
+    "cidade": "Praia",
+    "regiao": "Sul",
+    "date": "2022-01-19"
+  },
+  {
+    "id": 67,
+    "doenca": "Dengue",
+    "casos": 187,
+    "cidade": "Hangzhou",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-19"
+  },
+  {
+    "id": 68,
+    "doenca": "Dengue",
+    "casos": 691,
+    "cidade": "Simferopol",
+    "regiao": "Centro Oeste",
+    "date": "2022-03-29"
+  },
+  {
+    "id": 69,
+    "doenca": "Zika",
+    "casos": 612,
+    "cidade": "Cartagena",
+    "regiao": "Sul",
+    "date": "2022-01-12"
+  },
+  {
+    "id": 70,
+    "doenca": "Zika",
+    "casos": 622,
+    "cidade": "Manzini",
+    "regiao": "Nordeste",
+    "date": "2022-02-09"
+  },
+  {
+    "id": 71,
+    "doenca": "Malaria",
+    "casos": 421,
+    "cidade": "Tamale",
+    "regiao": "Centro Oeste",
+    "date": "2022-03-14"
+  },
+  {
+    "id": 72,
+    "doenca": "Dengue",
+    "casos": 95,
+    "cidade": "Podgorica",
+    "regiao": "Centro Oeste",
+    "date": "2022-03-20"
+  },
+  {
+    "id": 73,
+    "doenca": "Malaria",
+    "casos": 729,
+    "cidade": "Blantyre",
+    "regiao": "Sudeste",
+    "date": "2022-01-24"
+  },
+  {
+    "id": 74,
+    "doenca": "Zika",
+    "casos": 926,
+    "cidade": "Auckland",
+    "regiao": "Sudeste",
+    "date": "2022-02-27"
+  },
+  {
+    "id": 75,
+    "doenca": "Dengue",
+    "casos": 138,
+    "cidade": "Manchester",
+    "regiao": "Sul",
+    "date": "2022-01-19"
+  },
+  {
+    "id": 76,
+    "doenca": "Malaria",
+    "casos": 949,
+    "cidade": "Dongguan",
+    "regiao": "Sudeste",
+    "date": "2022-01-02"
+  },
+  {
+    "id": 77,
+    "doenca": "Dengue",
+    "casos": 512,
+    "cidade": "Yakutsk",
+    "regiao": "Sudeste",
+    "date": "2022-02-19"
+  },
+  {
+    "id": 78,
+    "doenca": "Zika",
+    "casos": 484,
+    "cidade": "Johor Bahru",
+    "regiao": "Sudeste",
+    "date": "2022-01-29"
+  },
+  {
+    "id": 79,
+    "doenca": "Zika",
+    "casos": 28,
+    "cidade": "Porto",
+    "regiao": "Centro Oeste",
+    "date": "2022-03-20"
+  },
+  {
+    "id": 80,
+    "doenca": "Zika",
+    "casos": 539,
+    "cidade": "Vladivostok",
+    "regiao": "Nordeste",
+    "date": "2022-02-05"
+  },
+  {
+    "id": 81,
+    "doenca": "Dengue",
+    "casos": 235,
+    "cidade": "Odessa",
+    "regiao": "Nordeste",
+    "date": "2022-01-14"
+  },
+  {
+    "id": 82,
+    "doenca": "Dengue",
+    "casos": 588,
+    "cidade": "Hai Phong",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-05"
+  },
+  {
+    "id": 83,
+    "doenca": "Malaria",
+    "casos": 742,
+    "cidade": "Abidjan",
+    "regiao": "Norte",
+    "date": "2022-01-22"
+  },
+  {
+    "id": 84,
+    "doenca": "Malaria",
+    "casos": 441,
+    "cidade": "South Tarawa",
+    "regiao": "Norte",
+    "date": "2022-01-16"
+  },
+  {
+    "id": 85,
+    "doenca": "Zika",
+    "casos": 298,
+    "cidade": "Semarang",
+    "regiao": "Norte",
+    "date": "2022-01-03"
+  },
+  {
+    "id": 86,
+    "doenca": "Malaria",
+    "casos": 736,
+    "cidade": "São José dos Campos",
+    "regiao": "Centro Oeste",
+    "date": "2022-03-25"
+  },
+  {
+    "id": 87,
+    "doenca": "Malaria",
+    "casos": 673,
+    "cidade": "Macapá",
+    "regiao": "Sudeste",
+    "date": "2022-03-16"
+  },
+  {
+    "id": 88,
+    "doenca": "Malaria",
+    "casos": 313,
+    "cidade": "Shillong",
+    "regiao": "Sul",
+    "date": "2022-02-09"
+  },
+  {
+    "id": 89,
+    "doenca": "Zika",
+    "casos": 8,
+    "cidade": "Bridgetown",
+    "regiao": "Sul",
+    "date": "2022-02-07"
+  },
+  {
+    "id": 90,
+    "doenca": "Dengue",
+    "casos": 770,
+    "cidade": "Da Nang",
+    "regiao": "Nordeste",
+    "date": "2022-03-18"
+  },
+  {
+    "id": 91,
+    "doenca": "Dengue",
+    "casos": 608,
+    "cidade": "Macapá",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-08"
+  },
+  {
+    "id": 92,
+    "doenca": "Malaria",
+    "casos": 349,
+    "cidade": "Rome",
+    "regiao": "Sudeste",
+    "date": "2022-03-05"
+  },
+  {
+    "id": 93,
+    "doenca": "Malaria",
+    "casos": 818,
+    "cidade": "Ibiza",
+    "regiao": "Norte",
+    "date": "2022-03-09"
+  },
+  {
+    "id": 94,
+    "doenca": "Zika",
+    "casos": 245,
+    "cidade": "Rotterdam",
+    "regiao": "Sudeste",
+    "date": "2022-01-09"
+  },
+  {
+    "id": 95,
+    "doenca": "Dengue",
+    "casos": 989,
+    "cidade": "Avarua",
+    "regiao": "Sudeste",
+    "date": "2022-03-08"
+  },
+  {
+    "id": 96,
+    "doenca": "Dengue",
+    "casos": 55,
+    "cidade": "Anchorage",
+    "regiao": "Sudeste",
+    "date": "2022-02-27"
+  },
+  {
+    "id": 97,
+    "doenca": "Malaria",
+    "casos": 996,
+    "cidade": "Oranjestad",
+    "regiao": "Sul",
+    "date": "2022-03-23"
+  },
+  {
+    "id": 98,
+    "doenca": "Malaria",
+    "casos": 855,
+    "cidade": "Panama City",
+    "regiao": "Sul",
+    "date": "2022-03-20"
+  },
+  {
+    "id": 99,
+    "doenca": "Dengue",
+    "casos": 736,
+    "cidade": "Havana",
+    "regiao": "Norte",
+    "date": "2022-02-02"
+  },
+  {
+    "id": 100,
+    "doenca": "Dengue",
+    "casos": 805,
+    "cidade": "Kano",
+    "regiao": "Sul",
+    "date": "2022-02-07"
+  },
+  {
+    "id": 101,
+    "doenca": "Malaria",
+    "casos": 510,
+    "cidade": "Chuí",
+    "regiao": "Norte",
+    "date": "2022-03-12"
+  },
+  {
+    "id": 102,
+    "doenca": "Dengue",
+    "casos": 244,
+    "cidade": "Ho Chi Minh City",
+    "regiao": "Sudeste",
+    "date": "2022-01-25"
+  },
+  {
+    "id": 103,
+    "doenca": "Dengue",
+    "casos": 288,
+    "cidade": "Minneapolis",
+    "regiao": "Centro Oeste",
+    "date": "2022-03-18"
+  },
+  {
+    "id": 104,
+    "doenca": "Dengue",
+    "casos": 661,
+    "cidade": "Charlotte",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-11"
+  },
+  {
+    "id": 105,
+    "doenca": "Malaria",
+    "casos": 706,
+    "cidade": "Makati City",
+    "regiao": "Sul",
+    "date": "2022-01-16"
+  },
+  {
+    "id": 106,
+    "doenca": "Malaria",
+    "casos": 25,
+    "cidade": "Hargeisa",
+    "regiao": "Sudeste",
+    "date": "2022-02-23"
+  },
+  {
+    "id": 107,
+    "doenca": "Malaria",
+    "casos": 250,
+    "cidade": "Dalian",
+    "regiao": "Sudeste",
+    "date": "2022-02-24"
+  },
+  {
+    "id": 108,
+    "doenca": "Malaria",
+    "casos": 198,
+    "cidade": "Managua",
+    "regiao": "Centro Oeste",
+    "date": "2022-03-26"
+  },
+  {
+    "id": 109,
+    "doenca": "Dengue",
+    "casos": 184,
+    "cidade": "Cartagena",
+    "regiao": "Sul",
+    "date": "2022-02-21"
+  },
+  {
+    "id": 110,
+    "doenca": "Dengue",
+    "casos": 617,
+    "cidade": "Boston",
+    "regiao": "Sul",
+    "date": "2022-03-14"
+  },
+  {
+    "id": 111,
+    "doenca": "Dengue",
+    "casos": 901,
+    "cidade": "Charlotte",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-24"
+  },
+  {
+    "id": 112,
+    "doenca": "Dengue",
+    "casos": 276,
+    "cidade": "Santo Domingo",
+    "regiao": "Sul",
+    "date": "2022-01-09"
+  },
+  {
+    "id": 113,
+    "doenca": "Malaria",
+    "casos": 55,
+    "cidade": "Phuket (city)",
+    "regiao": "Sudeste",
+    "date": "2022-03-12"
+  },
+  {
+    "id": 114,
+    "doenca": "Malaria",
+    "casos": 287,
+    "cidade": "Durango",
+    "regiao": "Sudeste",
+    "date": "2022-02-06"
+  },
+  {
+    "id": 115,
+    "doenca": "Malaria",
+    "casos": 471,
+    "cidade": "Praia",
+    "regiao": "Nordeste",
+    "date": "2022-02-28"
+  },
+  {
+    "id": 116,
+    "doenca": "Zika",
+    "casos": 567,
+    "cidade": "Ürümqi",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-31"
+  },
+  {
+    "id": 117,
+    "doenca": "Malaria",
+    "casos": 27,
+    "cidade": "Vancouver",
+    "regiao": "Nordeste",
+    "date": "2022-02-05"
+  },
+  {
+    "id": 118,
+    "doenca": "Malaria",
+    "casos": 868,
+    "cidade": "Charlotte Amalie",
+    "regiao": "Norte",
+    "date": "2022-03-16"
+  },
+  {
+    "id": 119,
+    "doenca": "Zika",
+    "casos": 217,
+    "cidade": "Thiès",
+    "regiao": "Norte",
+    "date": "2022-02-09"
+  },
+  {
+    "id": 120,
+    "doenca": "Malaria",
+    "casos": 413,
+    "cidade": "Panama City",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-27"
+  },
+  {
+    "id": 121,
+    "doenca": "Zika",
+    "casos": 427,
+    "cidade": "Pago Pago",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-15"
+  },
+  {
+    "id": 122,
+    "doenca": "Zika",
+    "casos": 807,
+    "cidade": "Jerusalem",
+    "regiao": "Norte",
+    "date": "2022-03-06"
+  },
+  {
+    "id": 123,
+    "doenca": "Dengue",
+    "casos": 749,
+    "cidade": "Ashgabat",
+    "regiao": "Norte",
+    "date": "2022-02-02"
+  },
+  {
+    "id": 124,
+    "doenca": "Dengue",
+    "casos": 860,
+    "cidade": "Gibraltar",
+    "regiao": "Norte",
+    "date": "2022-03-08"
+  },
+  {
+    "id": 125,
+    "doenca": "Zika",
+    "casos": 26,
+    "cidade": "Columbus",
+    "regiao": "Sul",
+    "date": "2022-01-14"
+  },
+  {
+    "id": 126,
+    "doenca": "Zika",
+    "casos": 467,
+    "cidade": "Port of Spain",
+    "regiao": "Sul",
+    "date": "2022-01-25"
+  },
+  {
+    "id": 127,
+    "doenca": "Zika",
+    "casos": 519,
+    "cidade": "Douglas",
+    "regiao": "Sul",
+    "date": "2022-03-21"
+  },
+  {
+    "id": 128,
+    "doenca": "Malaria",
+    "casos": 548,
+    "cidade": "Washington",
+    "regiao": "Nordeste",
+    "date": "2022-03-15"
+  },
+  {
+    "id": 129,
+    "doenca": "Malaria",
+    "casos": 812,
+    "cidade": "Zanzibar City",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-28"
+  },
+  {
+    "id": 130,
+    "doenca": "Malaria",
+    "casos": 495,
+    "cidade": "Lagos",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-02"
+  },
+  {
+    "id": 131,
+    "doenca": "Zika",
+    "casos": 479,
+    "cidade": "Sabha",
+    "regiao": "Norte",
+    "date": "2022-02-19"
+  },
+  {
+    "id": 132,
+    "doenca": "Dengue",
+    "casos": 122,
+    "cidade": "N'Djamena",
+    "regiao": "Nordeste",
+    "date": "2022-01-20"
+  },
+  {
+    "id": 133,
+    "doenca": "Zika",
+    "casos": 67,
+    "cidade": "Jaipur",
+    "regiao": "Centro Oeste",
+    "date": "2022-03-01"
+  },
+  {
+    "id": 134,
+    "doenca": "Zika",
+    "casos": 620,
+    "cidade": "Xi'an",
+    "regiao": "Centro Oeste",
+    "date": "2022-03-19"
+  },
+  {
+    "id": 135,
+    "doenca": "Dengue",
+    "casos": 768,
+    "cidade": "Zagreb",
+    "regiao": "Sudeste",
+    "date": "2022-01-03"
+  },
+  {
+    "id": 136,
+    "doenca": "Dengue",
+    "casos": 81,
+    "cidade": "Calgary",
+    "regiao": "Norte",
+    "date": "2022-03-21"
+  },
+  {
+    "id": 137,
+    "doenca": "Malaria",
+    "casos": 283,
+    "cidade": "Cannes",
+    "regiao": "Sul",
+    "date": "2022-01-15"
+  },
+  {
+    "id": 138,
+    "doenca": "Malaria",
+    "casos": 420,
+    "cidade": "Dunedin",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-26"
+  },
+  {
+    "id": 139,
+    "doenca": "Malaria",
+    "casos": 641,
+    "cidade": "Roseau",
+    "regiao": "Sul",
+    "date": "2022-02-03"
+  },
+  {
+    "id": 140,
+    "doenca": "Dengue",
+    "casos": 120,
+    "cidade": "Tehran",
+    "regiao": "Norte",
+    "date": "2022-01-28"
+  },
+  {
+    "id": 141,
+    "doenca": "Malaria",
+    "casos": 495,
+    "cidade": "Funafuti",
+    "regiao": "Sudeste",
+    "date": "2022-01-15"
+  },
+  {
+    "id": 142,
+    "doenca": "Malaria",
+    "casos": 133,
+    "cidade": "Port-au-Prince",
+    "regiao": "Sudeste",
+    "date": "2022-01-04"
+  },
+  {
+    "id": 143,
+    "doenca": "Zika",
+    "casos": 193,
+    "cidade": "Fairbanks",
+    "regiao": "Centro Oeste",
+    "date": "2022-03-23"
+  },
+  {
+    "id": 144,
+    "doenca": "Malaria",
+    "casos": 305,
+    "cidade": "Wuhan",
+    "regiao": "Nordeste",
+    "date": "2022-01-26"
+  },
+  {
+    "id": 145,
+    "doenca": "Zika",
+    "casos": 887,
+    "cidade": "Kingston",
+    "regiao": "Norte",
+    "date": "2022-02-14"
+  },
+  {
+    "id": 146,
+    "doenca": "Malaria",
+    "casos": 865,
+    "cidade": "Seoul",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-16"
+  },
+  {
+    "id": 147,
+    "doenca": "Dengue",
+    "casos": 755,
+    "cidade": "Saint John",
+    "regiao": "Centro Oeste",
+    "date": "2022-03-06"
+  },
+  {
+    "id": 148,
+    "doenca": "Malaria",
+    "casos": 850,
+    "cidade": "Havana",
+    "regiao": "Sudeste",
+    "date": "2022-03-01"
+  },
+  {
+    "id": 149,
+    "doenca": "Dengue",
+    "casos": 11,
+    "cidade": "Labasa",
+    "regiao": "Sul",
+    "date": "2022-01-09"
+  },
+  {
+    "id": 150,
+    "doenca": "Dengue",
+    "casos": 383,
+    "cidade": "Fredericton",
+    "regiao": "Norte",
+    "date": "2022-01-26"
+  },
+  {
+    "id": 151,
+    "doenca": "Zika",
+    "casos": 639,
+    "cidade": "Havana",
+    "regiao": "Sul",
+    "date": "2022-01-28"
+  },
+  {
+    "id": 152,
+    "doenca": "Dengue",
+    "casos": 890,
+    "cidade": "San José",
+    "regiao": "Nordeste",
+    "date": "2022-03-18"
+  },
+  {
+    "id": 153,
+    "doenca": "Malaria",
+    "casos": 687,
+    "cidade": "Aberdeen",
+    "regiao": "Sul",
+    "date": "2022-03-27"
+  },
+  {
+    "id": 154,
+    "doenca": "Zika",
+    "casos": 737,
+    "cidade": "Norilsk",
+    "regiao": "Sul",
+    "date": "2022-02-06"
+  },
+  {
+    "id": 155,
+    "doenca": "Malaria",
+    "casos": 136,
+    "cidade": "Belfast",
+    "regiao": "Sul",
+    "date": "2022-02-21"
+  },
+  {
+    "id": 156,
+    "doenca": "Malaria",
+    "casos": 244,
+    "cidade": "Adamstown",
+    "regiao": "Norte",
+    "date": "2022-01-24"
+  },
+  {
+    "id": 157,
+    "doenca": "Zika",
+    "casos": 343,
+    "cidade": "Alofi",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-10"
+  },
+  {
+    "id": 158,
+    "doenca": "Malaria",
+    "casos": 717,
+    "cidade": "Columbus",
+    "regiao": "Nordeste",
+    "date": "2022-01-15"
+  },
+  {
+    "id": 159,
+    "doenca": "Dengue",
+    "casos": 742,
+    "cidade": "Buenos Aires",
+    "regiao": "Norte",
+    "date": "2022-01-08"
+  },
+  {
+    "id": 160,
+    "doenca": "Zika",
+    "casos": 872,
+    "cidade": "Marrakech",
+    "regiao": "Norte",
+    "date": "2022-02-02"
+  },
+  {
+    "id": 161,
+    "doenca": "Dengue",
+    "casos": 5,
+    "cidade": "Luxor",
+    "regiao": "Sudeste",
+    "date": "2022-02-04"
+  },
+  {
+    "id": 162,
+    "doenca": "Malaria",
+    "casos": 988,
+    "cidade": "Multan",
+    "regiao": "Nordeste",
+    "date": "2022-01-23"
+  },
+  {
+    "id": 163,
+    "doenca": "Zika",
+    "casos": 803,
+    "cidade": "Alexandria",
+    "regiao": "Nordeste",
+    "date": "2022-01-16"
+  },
+  {
+    "id": 164,
+    "doenca": "Zika",
+    "casos": 179,
+    "cidade": "Nanjing",
+    "regiao": "Sudeste",
+    "date": "2022-03-16"
+  },
+  {
+    "id": 165,
+    "doenca": "Dengue",
+    "casos": 128,
+    "cidade": "Jeddah",
+    "regiao": "Nordeste",
+    "date": "2022-03-13"
+  },
+  {
+    "id": 166,
+    "doenca": "Zika",
+    "casos": 649,
+    "cidade": "Bucharest",
+    "regiao": "Sul",
+    "date": "2022-03-03"
+  },
+  {
+    "id": 167,
+    "doenca": "Zika",
+    "casos": 308,
+    "cidade": "Ottawa",
+    "regiao": "Nordeste",
+    "date": "2022-03-28"
+  },
+  {
+    "id": 168,
+    "doenca": "Zika",
+    "casos": 982,
+    "cidade": "Omdurman",
+    "regiao": "Nordeste",
+    "date": "2022-02-25"
+  },
+  {
+    "id": 169,
+    "doenca": "Malaria",
+    "casos": 922,
+    "cidade": "Asunción",
+    "regiao": "Sul",
+    "date": "2022-03-04"
+  },
+  {
+    "id": 170,
+    "doenca": "Zika",
+    "casos": 916,
+    "cidade": "Ambon",
+    "regiao": "Sul",
+    "date": "2022-03-12"
+  },
+  {
+    "id": 171,
+    "doenca": "Zika",
+    "casos": 891,
+    "cidade": "Bamako",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-06"
+  },
+  {
+    "id": 172,
+    "doenca": "Zika",
+    "casos": 390,
+    "cidade": "Charlottetown",
+    "regiao": "Sudeste",
+    "date": "2022-02-01"
+  },
+  {
+    "id": 173,
+    "doenca": "Zika",
+    "casos": 6,
+    "cidade": "Tabriz",
+    "regiao": "Norte",
+    "date": "2022-02-22"
+  },
+  {
+    "id": 174,
+    "doenca": "Dengue",
+    "casos": 496,
+    "cidade": "Beijing",
+    "regiao": "Sudeste",
+    "date": "2022-01-10"
+  },
+  {
+    "id": 175,
+    "doenca": "Malaria",
+    "casos": 762,
+    "cidade": "Oranjestad",
+    "regiao": "Sudeste",
+    "date": "2022-02-03"
+  },
+  {
+    "id": 176,
+    "doenca": "Dengue",
+    "casos": 588,
+    "cidade": "Horta (Azores)",
+    "regiao": "Norte",
+    "date": "2022-03-24"
+  },
+  {
+    "id": 177,
+    "doenca": "Zika",
+    "casos": 333,
+    "cidade": "Charlotte",
+    "regiao": "Sul",
+    "date": "2022-03-13"
+  },
+  {
+    "id": 178,
+    "doenca": "Dengue",
+    "casos": 974,
+    "cidade": "New Orleans",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-25"
+  },
+  {
+    "id": 179,
+    "doenca": "Dengue",
+    "casos": 800,
+    "cidade": "Doha",
+    "regiao": "Nordeste",
+    "date": "2022-03-17"
+  },
+  {
+    "id": 180,
+    "doenca": "Zika",
+    "casos": 677,
+    "cidade": "Honolulu",
+    "regiao": "Nordeste",
+    "date": "2022-02-02"
+  },
+  {
+    "id": 181,
+    "doenca": "Zika",
+    "casos": 183,
+    "cidade": "Madrid",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-14"
+  },
+  {
+    "id": 182,
+    "doenca": "Dengue",
+    "casos": 1000,
+    "cidade": "Istanbul",
+    "regiao": "Nordeste",
+    "date": "2022-01-22"
+  },
+  {
+    "id": 183,
+    "doenca": "Dengue",
+    "casos": 202,
+    "cidade": "Tamale",
+    "regiao": "Sul",
+    "date": "2022-02-03"
+  },
+  {
+    "id": 184,
+    "doenca": "Dengue",
+    "casos": 180,
+    "cidade": "Ibadan",
+    "regiao": "Nordeste",
+    "date": "2022-01-27"
+  },
+  {
+    "id": 185,
+    "doenca": "Dengue",
+    "casos": 275,
+    "cidade": "Monterrey",
+    "regiao": "Nordeste",
+    "date": "2022-01-07"
+  },
+  {
+    "id": 186,
+    "doenca": "Zika",
+    "casos": 127,
+    "cidade": "Islamabad",
+    "regiao": "Sul",
+    "date": "2022-02-04"
+  },
+  {
+    "id": 187,
+    "doenca": "Zika",
+    "casos": 217,
+    "cidade": "San Antonio",
+    "regiao": "Sudeste",
+    "date": "2022-02-06"
+  },
+  {
+    "id": 188,
+    "doenca": "Dengue",
+    "casos": 416,
+    "cidade": "Antwerp",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-06"
+  },
+  {
+    "id": 189,
+    "doenca": "Dengue",
+    "casos": 535,
+    "cidade": "Linz",
+    "regiao": "Sudeste",
+    "date": "2022-02-14"
+  },
+  {
+    "id": 190,
+    "doenca": "Dengue",
+    "casos": 633,
+    "cidade": "St. John's",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-02"
+  },
+  {
+    "id": 191,
+    "doenca": "Malaria",
+    "casos": 485,
+    "cidade": "Pittsburgh",
+    "regiao": "Nordeste",
+    "date": "2022-02-14"
+  },
+  {
+    "id": 192,
+    "doenca": "Zika",
+    "casos": 800,
+    "cidade": "Honiara",
+    "regiao": "Centro Oeste",
+    "date": "2022-03-01"
+  },
+  {
+    "id": 193,
+    "doenca": "Zika",
+    "casos": 620,
+    "cidade": "Handan",
+    "regiao": "Norte",
+    "date": "2022-01-04"
+  },
+  {
+    "id": 194,
+    "doenca": "Malaria",
+    "casos": 640,
+    "cidade": "Sofia",
+    "regiao": "Nordeste",
+    "date": "2022-02-15"
+  },
+  {
+    "id": 195,
+    "doenca": "Zika",
+    "casos": 160,
+    "cidade": "Alofi",
+    "regiao": "Norte",
+    "date": "2022-03-21"
+  },
+  {
+    "id": 196,
+    "doenca": "Dengue",
+    "casos": 535,
+    "cidade": "Maceió",
+    "regiao": "Nordeste",
+    "date": "2022-01-27"
+  },
+  {
+    "id": 197,
+    "doenca": "Dengue",
+    "casos": 378,
+    "cidade": "Bilbao",
+    "regiao": "Sudeste",
+    "date": "2022-03-06"
+  },
+  {
+    "id": 198,
+    "doenca": "Malaria",
+    "casos": 671,
+    "cidade": "Tijuana",
+    "regiao": "Centro Oeste",
+    "date": "2022-03-18"
+  },
+  {
+    "id": 199,
+    "doenca": "Zika",
+    "casos": 144,
+    "cidade": "Marseille",
+    "regiao": "Nordeste",
+    "date": "2022-03-25"
+  },
+  {
+    "id": 200,
+    "doenca": "Malaria",
+    "casos": 571,
+    "cidade": "Linz",
+    "regiao": "Sul",
+    "date": "2022-02-02"
+  },
+  {
+    "id": 201,
+    "doenca": "Dengue",
+    "casos": 967,
+    "cidade": "Melbourne",
+    "regiao": "Sul",
+    "date": "2022-02-24"
+  },
+  {
+    "id": 202,
+    "doenca": "Zika",
+    "casos": 190,
+    "cidade": "Las Palmas de Gran Canaria",
+    "regiao": "Nordeste",
+    "date": "2022-01-24"
+  },
+  {
+    "id": 203,
+    "doenca": "Zika",
+    "casos": 146,
+    "cidade": "Veracruz",
+    "regiao": "Norte",
+    "date": "2022-02-25"
+  },
+  {
+    "id": 204,
+    "doenca": "Malaria",
+    "casos": 285,
+    "cidade": "Edmonton",
+    "regiao": "Norte",
+    "date": "2022-01-03"
+  },
+  {
+    "id": 205,
+    "doenca": "Malaria",
+    "casos": 840,
+    "cidade": "Antwerp",
+    "regiao": "Sudeste",
+    "date": "2022-02-23"
+  },
+  {
+    "id": 206,
+    "doenca": "Malaria",
+    "casos": 367,
+    "cidade": "Tegucigalpa",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-07"
+  },
+  {
+    "id": 207,
+    "doenca": "Malaria",
+    "casos": 855,
+    "cidade": "Chişinău",
+    "regiao": "Norte",
+    "date": "2022-01-28"
+  },
+  {
+    "id": 208,
+    "doenca": "Malaria",
+    "casos": 485,
+    "cidade": "Ambon",
+    "regiao": "Nordeste",
+    "date": "2022-03-09"
+  },
+  {
+    "id": 209,
+    "doenca": "Malaria",
+    "casos": 306,
+    "cidade": "Hamburg",
+    "regiao": "Sul",
+    "date": "2022-01-16"
+  },
+  {
+    "id": 210,
+    "doenca": "Dengue",
+    "casos": 718,
+    "cidade": "Moscow",
+    "regiao": "Sudeste",
+    "date": "2022-02-08"
+  },
+  {
+    "id": 211,
+    "doenca": "Malaria",
+    "casos": 937,
+    "cidade": "Kuching",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-05"
+  },
+  {
+    "id": 212,
+    "doenca": "Malaria",
+    "casos": 434,
+    "cidade": "The Valley",
+    "regiao": "Sudeste",
+    "date": "2022-02-15"
+  },
+  {
+    "id": 213,
+    "doenca": "Malaria",
+    "casos": 476,
+    "cidade": "Marseille",
+    "regiao": "Norte",
+    "date": "2022-03-22"
+  },
+  {
+    "id": 214,
+    "doenca": "Dengue",
+    "casos": 27,
+    "cidade": "Santiago de Cuba",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-31"
+  },
+  {
+    "id": 215,
+    "doenca": "Dengue",
+    "casos": 247,
+    "cidade": "Jinan",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-20"
+  },
+  {
+    "id": 216,
+    "doenca": "Dengue",
+    "casos": 690,
+    "cidade": "Berlin",
+    "regiao": "Centro Oeste",
+    "date": "2022-03-10"
+  },
+  {
+    "id": 217,
+    "doenca": "Zika",
+    "casos": 720,
+    "cidade": "Guwahati",
+    "regiao": "Centro Oeste",
+    "date": "2022-03-20"
+  },
+  {
+    "id": 218,
+    "doenca": "Zika",
+    "casos": 778,
+    "cidade": "Yangon",
+    "regiao": "Sul",
+    "date": "2022-01-24"
+  },
+  {
+    "id": 219,
+    "doenca": "Zika",
+    "casos": 458,
+    "cidade": "Luxor",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-15"
+  },
+  {
+    "id": 220,
+    "doenca": "Zika",
+    "casos": 163,
+    "cidade": "Maputo",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-02"
+  },
+  {
+    "id": 221,
+    "doenca": "Malaria",
+    "casos": 978,
+    "cidade": "Vladivostok",
+    "regiao": "Sudeste",
+    "date": "2022-01-31"
+  },
+  {
+    "id": 222,
+    "doenca": "Zika",
+    "casos": 190,
+    "cidade": "Cannes",
+    "regiao": "Sul",
+    "date": "2022-02-01"
+  },
+  {
+    "id": 223,
+    "doenca": "Zika",
+    "casos": 863,
+    "cidade": "Tampa",
+    "regiao": "Sudeste",
+    "date": "2022-01-29"
+  },
+  {
+    "id": 224,
+    "doenca": "Zika",
+    "casos": 379,
+    "cidade": "Geelong",
+    "regiao": "Norte",
+    "date": "2022-03-28"
+  },
+  {
+    "id": 225,
+    "doenca": "Dengue",
+    "casos": 32,
+    "cidade": "Kigali",
+    "regiao": "Nordeste",
+    "date": "2022-01-22"
+  },
+  {
+    "id": 226,
+    "doenca": "Zika",
+    "casos": 625,
+    "cidade": "Palikir",
+    "regiao": "Norte",
+    "date": "2022-01-31"
+  },
+  {
+    "id": 227,
+    "doenca": "Dengue",
+    "casos": 558,
+    "cidade": "Lviv",
+    "regiao": "Nordeste",
+    "date": "2022-01-11"
+  },
+  {
+    "id": 228,
+    "doenca": "Malaria",
+    "casos": 546,
+    "cidade": "Ouagadougou",
+    "regiao": "Nordeste",
+    "date": "2022-03-16"
+  },
+  {
+    "id": 229,
+    "doenca": "Zika",
+    "casos": 789,
+    "cidade": "Chongjin",
+    "regiao": "Centro Oeste",
+    "date": "2022-03-17"
+  },
+  {
+    "id": 230,
+    "doenca": "Malaria",
+    "casos": 131,
+    "cidade": "Leipzig",
+    "regiao": "Nordeste",
+    "date": "2022-02-22"
+  },
+  {
+    "id": 231,
+    "doenca": "Malaria",
+    "casos": 62,
+    "cidade": "Jinan",
+    "regiao": "Nordeste",
+    "date": "2022-01-23"
+  },
+  {
+    "id": 232,
+    "doenca": "Zika",
+    "casos": 876,
+    "cidade": "Belém",
+    "regiao": "Sul",
+    "date": "2022-02-26"
+  },
+  {
+    "id": 233,
+    "doenca": "Malaria",
+    "casos": 392,
+    "cidade": "Ndola",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-27"
+  },
+  {
+    "id": 234,
+    "doenca": "Zika",
+    "casos": 109,
+    "cidade": "Bilbao",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-06"
+  },
+  {
+    "id": 235,
+    "doenca": "Dengue",
+    "casos": 306,
+    "cidade": "Miami",
+    "regiao": "Sudeste",
+    "date": "2022-03-09"
+  },
+  {
+    "id": 236,
+    "doenca": "Zika",
+    "casos": 364,
+    "cidade": "Lanzhou",
+    "regiao": "Sul",
+    "date": "2022-01-06"
+  },
+  {
+    "id": 237,
+    "doenca": "Dengue",
+    "casos": 538,
+    "cidade": "Ottawa",
+    "regiao": "Nordeste",
+    "date": "2022-03-25"
+  },
+  {
+    "id": 238,
+    "doenca": "Zika",
+    "casos": 27,
+    "cidade": "Darwin",
+    "regiao": "Sudeste",
+    "date": "2022-03-09"
+  },
+  {
+    "id": 239,
+    "doenca": "Zika",
+    "casos": 484,
+    "cidade": "Yogyakarta (city)",
+    "regiao": "Sul",
+    "date": "2022-02-09"
+  },
+  {
+    "id": 240,
+    "doenca": "Malaria",
+    "casos": 306,
+    "cidade": "Malabo",
+    "regiao": "Sudeste",
+    "date": "2022-01-11"
+  },
+  {
+    "id": 241,
+    "doenca": "Dengue",
+    "casos": 962,
+    "cidade": "Siem Reap",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-10"
+  },
+  {
+    "id": 242,
+    "doenca": "Dengue",
+    "casos": 681,
+    "cidade": "Bamako",
+    "regiao": "Sudeste",
+    "date": "2022-03-17"
+  },
+  {
+    "id": 243,
+    "doenca": "Malaria",
+    "casos": 805,
+    "cidade": "Wuhan",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-05"
+  },
+  {
+    "id": 244,
+    "doenca": "Dengue",
+    "casos": 906,
+    "cidade": "Nukuʻalofa",
+    "regiao": "Nordeste",
+    "date": "2022-03-05"
+  },
+  {
+    "id": 245,
+    "doenca": "Dengue",
+    "casos": 757,
+    "cidade": "Rabi Island",
+    "regiao": "Sudeste",
+    "date": "2022-01-10"
+  },
+  {
+    "id": 246,
+    "doenca": "Dengue",
+    "casos": 615,
+    "cidade": "Yaoundé",
+    "regiao": "Norte",
+    "date": "2022-03-04"
+  },
+  {
+    "id": 247,
+    "doenca": "Zika",
+    "casos": 318,
+    "cidade": "New Orleans",
+    "regiao": "Nordeste",
+    "date": "2022-02-25"
+  },
+  {
+    "id": 248,
+    "doenca": "Zika",
+    "casos": 348,
+    "cidade": "Cologne",
+    "regiao": "Nordeste",
+    "date": "2022-02-08"
+  },
+  {
+    "id": 249,
+    "doenca": "Malaria",
+    "casos": 550,
+    "cidade": "Pattaya",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-19"
+  },
+  {
+    "id": 250,
+    "doenca": "Dengue",
+    "casos": 597,
+    "cidade": "Nanning",
+    "regiao": "Norte",
+    "date": "2022-03-02"
+  },
+  {
+    "id": 251,
+    "doenca": "Zika",
+    "casos": 241,
+    "cidade": "Novosibirsk",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-09"
+  },
+  {
+    "id": 252,
+    "doenca": "Malaria",
+    "casos": 368,
+    "cidade": "Birkirkara",
+    "regiao": "Sul",
+    "date": "2022-01-24"
+  },
+  {
+    "id": 253,
+    "doenca": "Malaria",
+    "casos": 532,
+    "cidade": "Kandahar",
+    "regiao": "Sul",
+    "date": "2022-03-16"
+  },
+  {
+    "id": 254,
+    "doenca": "Malaria",
+    "casos": 430,
+    "cidade": "Hanga Roa",
+    "regiao": "Sul",
+    "date": "2022-01-09"
+  },
+  {
+    "id": 255,
+    "doenca": "Zika",
+    "casos": 457,
+    "cidade": "Siem Reap",
+    "regiao": "Norte",
+    "date": "2022-01-09"
+  },
+  {
+    "id": 256,
+    "doenca": "Malaria",
+    "casos": 659,
+    "cidade": "Valencia",
+    "regiao": "Norte",
+    "date": "2022-02-11"
+  },
+  {
+    "id": 257,
+    "doenca": "Zika",
+    "casos": 245,
+    "cidade": "Iloilo City",
+    "regiao": "Norte",
+    "date": "2022-03-22"
+  },
+  {
+    "id": 258,
+    "doenca": "Zika",
+    "casos": 311,
+    "cidade": "Tucson",
+    "regiao": "Norte",
+    "date": "2022-03-02"
+  },
+  {
+    "id": 259,
+    "doenca": "Dengue",
+    "casos": 661,
+    "cidade": "Melbourne",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-29"
+  },
+  {
+    "id": 260,
+    "doenca": "Malaria",
+    "casos": 124,
+    "cidade": "Manaus",
+    "regiao": "Sul",
+    "date": "2022-03-20"
+  },
+  {
+    "id": 261,
+    "doenca": "Dengue",
+    "casos": 588,
+    "cidade": "Phoenix",
+    "regiao": "Sul",
+    "date": "2022-01-04"
+  },
+  {
+    "id": 262,
+    "doenca": "Dengue",
+    "casos": 893,
+    "cidade": "Concepción",
+    "regiao": "Centro Oeste",
+    "date": "2022-03-17"
+  },
+  {
+    "id": 263,
+    "doenca": "Zika",
+    "casos": 746,
+    "cidade": "Accra",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-16"
+  },
+  {
+    "id": 264,
+    "doenca": "Zika",
+    "casos": 830,
+    "cidade": "Yaren District",
+    "regiao": "Nordeste",
+    "date": "2022-03-28"
+  },
+  {
+    "id": 265,
+    "doenca": "Malaria",
+    "casos": 18,
+    "cidade": "Shenzhen",
+    "regiao": "Sul",
+    "date": "2022-03-29"
+  },
+  {
+    "id": 266,
+    "doenca": "Malaria",
+    "casos": 700,
+    "cidade": "Durango",
+    "regiao": "Sudeste",
+    "date": "2022-01-04"
+  },
+  {
+    "id": 267,
+    "doenca": "Zika",
+    "casos": 863,
+    "cidade": "Curitiba",
+    "regiao": "Nordeste",
+    "date": "2022-03-22"
+  },
+  {
+    "id": 268,
+    "doenca": "Malaria",
+    "casos": 599,
+    "cidade": "Tskhinvali",
+    "regiao": "Sul",
+    "date": "2022-01-24"
+  },
+  {
+    "id": 269,
+    "doenca": "Zika",
+    "casos": 903,
+    "cidade": "Recife",
+    "regiao": "Sul",
+    "date": "2022-03-13"
+  },
+  {
+    "id": 270,
+    "doenca": "Zika",
+    "casos": 543,
+    "cidade": "Papeete",
+    "regiao": "Sul",
+    "date": "2022-01-08"
+  },
+  {
+    "id": 271,
+    "doenca": "Zika",
+    "casos": 557,
+    "cidade": "Alor Star",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-15"
+  },
+  {
+    "id": 272,
+    "doenca": "Dengue",
+    "casos": 310,
+    "cidade": "Omsk",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-25"
+  },
+  {
+    "id": 273,
+    "doenca": "Zika",
+    "casos": 515,
+    "cidade": "Veracruz",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-04"
+  },
+  {
+    "id": 274,
+    "doenca": "Dengue",
+    "casos": 264,
+    "cidade": "Douala",
+    "regiao": "Nordeste",
+    "date": "2022-02-01"
+  },
+  {
+    "id": 275,
+    "doenca": "Dengue",
+    "casos": 90,
+    "cidade": "Brikama",
+    "regiao": "Norte",
+    "date": "2022-02-24"
+  },
+  {
+    "id": 276,
+    "doenca": "Malaria",
+    "casos": 604,
+    "cidade": "Maracaibo",
+    "regiao": "Sul",
+    "date": "2022-02-14"
+  },
+  {
+    "id": 277,
+    "doenca": "Malaria",
+    "casos": 548,
+    "cidade": "Belém",
+    "regiao": "Norte",
+    "date": "2022-01-21"
+  },
+  {
+    "id": 278,
+    "doenca": "Dengue",
+    "casos": 208,
+    "cidade": "Alor Star",
+    "regiao": "Nordeste",
+    "date": "2022-01-06"
+  },
+  {
+    "id": 279,
+    "doenca": "Dengue",
+    "casos": 185,
+    "cidade": "Dodoma",
+    "regiao": "Sul",
+    "date": "2022-03-04"
+  },
+  {
+    "id": 280,
+    "doenca": "Zika",
+    "casos": 566,
+    "cidade": "Ndola",
+    "regiao": "Sul",
+    "date": "2022-01-26"
+  },
+  {
+    "id": 281,
+    "doenca": "Zika",
+    "casos": 376,
+    "cidade": "Barranquilla",
+    "regiao": "Centro Oeste",
+    "date": "2022-03-28"
+  },
+  {
+    "id": 282,
+    "doenca": "Malaria",
+    "casos": 786,
+    "cidade": "Maputo",
+    "regiao": "Norte",
+    "date": "2022-03-19"
+  },
+  {
+    "id": 283,
+    "doenca": "Malaria",
+    "casos": 987,
+    "cidade": "Alexandria",
+    "regiao": "Sudeste",
+    "date": "2022-02-26"
+  },
+  {
+    "id": 284,
+    "doenca": "Malaria",
+    "casos": 986,
+    "cidade": "Petropavlovsk-Kamchatsky",
+    "regiao": "Centro Oeste",
+    "date": "2022-03-12"
+  },
+  {
+    "id": 285,
+    "doenca": "Dengue",
+    "casos": 86,
+    "cidade": "Guangzhou",
+    "regiao": "Norte",
+    "date": "2022-03-01"
+  },
+  {
+    "id": 286,
+    "doenca": "Malaria",
+    "casos": 407,
+    "cidade": "Mersin",
+    "regiao": "Sudeste",
+    "date": "2022-02-26"
+  },
+  {
+    "id": 287,
+    "doenca": "Zika",
+    "casos": 478,
+    "cidade": "Winnipeg",
+    "regiao": "Sul",
+    "date": "2022-01-18"
+  },
+  {
+    "id": 288,
+    "doenca": "Zika",
+    "casos": 906,
+    "cidade": "Kinshasa",
+    "regiao": "Sul",
+    "date": "2022-03-26"
+  },
+  {
+    "id": 289,
+    "doenca": "Dengue",
+    "casos": 147,
+    "cidade": "Shillong",
+    "regiao": "Sul",
+    "date": "2022-03-19"
+  },
+  {
+    "id": 290,
+    "doenca": "Malaria",
+    "casos": 355,
+    "cidade": "The Hague",
+    "regiao": "Sul",
+    "date": "2022-03-27"
+  },
+  {
+    "id": 291,
+    "doenca": "Zika",
+    "casos": 407,
+    "cidade": "Chişinău",
+    "regiao": "Sudeste",
+    "date": "2022-02-13"
+  },
+  {
+    "id": 292,
+    "doenca": "Zika",
+    "casos": 412,
+    "cidade": "Maracaibo",
+    "regiao": "Norte",
+    "date": "2022-02-28"
+  },
+  {
+    "id": 293,
+    "doenca": "Zika",
+    "casos": 235,
+    "cidade": "Honiara",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-11"
+  },
+  {
+    "id": 294,
+    "doenca": "Malaria",
+    "casos": 815,
+    "cidade": "Petropavlovsk-Kamchatsky",
+    "regiao": "Nordeste",
+    "date": "2022-02-15"
+  },
+  {
+    "id": 295,
+    "doenca": "Dengue",
+    "casos": 107,
+    "cidade": "Nice",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-01"
+  },
+  {
+    "id": 296,
+    "doenca": "Malaria",
+    "casos": 294,
+    "cidade": "Shillong",
+    "regiao": "Sudeste",
+    "date": "2022-03-03"
+  },
+  {
+    "id": 297,
+    "doenca": "Malaria",
+    "casos": 980,
+    "cidade": "Liverpool",
+    "regiao": "Sul",
+    "date": "2022-02-24"
+  },
+  {
+    "id": 298,
+    "doenca": "Zika",
+    "casos": 472,
+    "cidade": "Stuttgart",
+    "regiao": "Sudeste",
+    "date": "2022-03-28"
+  },
+  {
+    "id": 299,
+    "doenca": "Malaria",
+    "casos": 974,
+    "cidade": "Rio de Janeiro",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-05"
+  },
+  {
+    "id": 300,
+    "doenca": "Zika",
+    "casos": 919,
+    "cidade": "Algiers",
+    "regiao": "Nordeste",
+    "date": "2022-02-07"
+  },
+  {
+    "id": 301,
+    "doenca": "Malaria",
+    "casos": 738,
+    "cidade": "Dresden",
+    "regiao": "Sudeste",
+    "date": "2022-02-09"
+  },
+  {
+    "id": 302,
+    "doenca": "Zika",
+    "casos": 571,
+    "cidade": "Labasa",
+    "regiao": "Norte",
+    "date": "2022-02-25"
+  },
+  {
+    "id": 303,
+    "doenca": "Zika",
+    "casos": 248,
+    "cidade": "Ushuaia",
+    "regiao": "Sudeste",
+    "date": "2022-01-02"
+  },
+  {
+    "id": 304,
+    "doenca": "Zika",
+    "casos": 953,
+    "cidade": "Dammam",
+    "regiao": "Sudeste",
+    "date": "2022-01-14"
+  },
+  {
+    "id": 305,
+    "doenca": "Dengue",
+    "casos": 58,
+    "cidade": "Yamoussoukro",
+    "regiao": "Norte",
+    "date": "2022-01-25"
+  },
+  {
+    "id": 306,
+    "doenca": "Dengue",
+    "casos": 480,
+    "cidade": "Durango",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-09"
+  },
+  {
+    "id": 307,
+    "doenca": "Dengue",
+    "casos": 521,
+    "cidade": "Zürich",
+    "regiao": "Norte",
+    "date": "2022-01-26"
+  },
+  {
+    "id": 308,
+    "doenca": "Zika",
+    "casos": 840,
+    "cidade": "Luxor",
+    "regiao": "Sudeste",
+    "date": "2022-03-05"
+  },
+  {
+    "id": 309,
+    "doenca": "Dengue",
+    "casos": 158,
+    "cidade": "Mandurah",
+    "regiao": "Sudeste",
+    "date": "2022-01-10"
+  },
+  {
+    "id": 310,
+    "doenca": "Zika",
+    "casos": 30,
+    "cidade": "Kawasaki",
+    "regiao": "Sul",
+    "date": "2022-02-17"
+  },
+  {
+    "id": 311,
+    "doenca": "Malaria",
+    "casos": 972,
+    "cidade": "Edinburgh",
+    "regiao": "Sudeste",
+    "date": "2022-02-11"
+  },
+  {
+    "id": 312,
+    "doenca": "Dengue",
+    "casos": 184,
+    "cidade": "Phuket (city)",
+    "regiao": "Sudeste",
+    "date": "2022-03-25"
+  },
+  {
+    "id": 313,
+    "doenca": "Malaria",
+    "casos": 167,
+    "cidade": "Malacca Town",
+    "regiao": "Norte",
+    "date": "2022-02-24"
+  },
+  {
+    "id": 314,
+    "doenca": "Zika",
+    "casos": 926,
+    "cidade": "Xi'an",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-30"
+  },
+  {
+    "id": 315,
+    "doenca": "Malaria",
+    "casos": 22,
+    "cidade": "Adamstown",
+    "regiao": "Nordeste",
+    "date": "2022-01-04"
+  },
+  {
+    "id": 316,
+    "doenca": "Dengue",
+    "casos": 96,
+    "cidade": "Gothenburg",
+    "regiao": "Nordeste",
+    "date": "2022-01-16"
+  },
+  {
+    "id": 317,
+    "doenca": "Malaria",
+    "casos": 961,
+    "cidade": "City of Halifax",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-03"
+  },
+  {
+    "id": 318,
+    "doenca": "Dengue",
+    "casos": 77,
+    "cidade": "Malmö",
+    "regiao": "Sudeste",
+    "date": "2022-01-04"
+  },
+  {
+    "id": 319,
+    "doenca": "Dengue",
+    "casos": 390,
+    "cidade": "Zamboanga City",
+    "regiao": "Norte",
+    "date": "2022-02-05"
+  },
+  {
+    "id": 320,
+    "doenca": "Malaria",
+    "casos": 740,
+    "cidade": "Linz",
+    "regiao": "Sudeste",
+    "date": "2022-01-15"
+  },
+  {
+    "id": 321,
+    "doenca": "Dengue",
+    "casos": 40,
+    "cidade": "Valencia",
+    "regiao": "Nordeste",
+    "date": "2022-01-31"
+  },
+  {
+    "id": 322,
+    "doenca": "Zika",
+    "casos": 805,
+    "cidade": "Dhaka",
+    "regiao": "Sul",
+    "date": "2022-02-08"
+  },
+  {
+    "id": 323,
+    "doenca": "Malaria",
+    "casos": 220,
+    "cidade": "Graz",
+    "regiao": "Sudeste",
+    "date": "2022-01-18"
+  },
+  {
+    "id": 324,
+    "doenca": "Malaria",
+    "casos": 798,
+    "cidade": "Bandar Seri Begawan",
+    "regiao": "Norte",
+    "date": "2022-03-14"
+  },
+  {
+    "id": 325,
+    "doenca": "Zika",
+    "casos": 518,
+    "cidade": "Thiès",
+    "regiao": "Nordeste",
+    "date": "2022-02-28"
+  },
+  {
+    "id": 326,
+    "doenca": "Dengue",
+    "casos": 995,
+    "cidade": "Marseille",
+    "regiao": "Norte",
+    "date": "2022-01-31"
+  },
+  {
+    "id": 327,
+    "doenca": "Zika",
+    "casos": 319,
+    "cidade": "Papeete",
+    "regiao": "Norte",
+    "date": "2022-01-29"
+  },
+  {
+    "id": 328,
+    "doenca": "Malaria",
+    "casos": 597,
+    "cidade": "Valparaíso",
+    "regiao": "Sul",
+    "date": "2022-03-03"
+  },
+  {
+    "id": 329,
+    "doenca": "Malaria",
+    "casos": 618,
+    "cidade": "Sitka",
+    "regiao": "Nordeste",
+    "date": "2022-01-14"
+  },
+  {
+    "id": 330,
+    "doenca": "Zika",
+    "casos": 74,
+    "cidade": "Basra",
+    "regiao": "Nordeste",
+    "date": "2022-02-05"
+  },
+  {
+    "id": 331,
+    "doenca": "Malaria",
+    "casos": 412,
+    "cidade": "Udon Thani",
+    "regiao": "Sul",
+    "date": "2022-01-27"
+  },
+  {
+    "id": 332,
+    "doenca": "Dengue",
+    "casos": 294,
+    "cidade": "South Tarawa",
+    "regiao": "Sul",
+    "date": "2022-03-19"
+  },
+  {
+    "id": 333,
+    "doenca": "Zika",
+    "casos": 319,
+    "cidade": "Guwahati",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-18"
+  },
+  {
+    "id": 334,
+    "doenca": "Zika",
+    "casos": 922,
+    "cidade": "Linz",
+    "regiao": "Sul",
+    "date": "2022-03-09"
+  },
+  {
+    "id": 335,
+    "doenca": "Dengue",
+    "casos": 893,
+    "cidade": "Wuhan",
+    "regiao": "Norte",
+    "date": "2022-02-19"
+  },
+  {
+    "id": 336,
+    "doenca": "Malaria",
+    "casos": 851,
+    "cidade": "Abidjan",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-21"
+  },
+  {
+    "id": 337,
+    "doenca": "Zika",
+    "casos": 192,
+    "cidade": "Dublin",
+    "regiao": "Sul",
+    "date": "2022-03-25"
+  },
+  {
+    "id": 338,
+    "doenca": "Zika",
+    "casos": 977,
+    "cidade": "Kingstown",
+    "regiao": "Sul",
+    "date": "2022-02-21"
+  },
+  {
+    "id": 339,
+    "doenca": "Malaria",
+    "casos": 965,
+    "cidade": "Juneau",
+    "regiao": "Nordeste",
+    "date": "2022-03-18"
+  },
+  {
+    "id": 340,
+    "doenca": "Zika",
+    "casos": 834,
+    "cidade": "Montevideo",
+    "regiao": "Sul",
+    "date": "2022-03-17"
+  },
+  {
+    "id": 341,
+    "doenca": "Dengue",
+    "casos": 905,
+    "cidade": "Kabul",
+    "regiao": "Norte",
+    "date": "2022-03-16"
+  },
+  {
+    "id": 342,
+    "doenca": "Dengue",
+    "casos": 452,
+    "cidade": "Jeddah",
+    "regiao": "Sudeste",
+    "date": "2022-01-21"
+  },
+  {
+    "id": 343,
+    "doenca": "Dengue",
+    "casos": 388,
+    "cidade": "Nicosia",
+    "regiao": "Sul",
+    "date": "2022-02-08"
+  },
+  {
+    "id": 344,
+    "doenca": "Zika",
+    "casos": 452,
+    "cidade": "Mérida",
+    "regiao": "Nordeste",
+    "date": "2022-02-26"
+  },
+  {
+    "id": 345,
+    "doenca": "Zika",
+    "casos": 819,
+    "cidade": "Miami",
+    "regiao": "Centro Oeste",
+    "date": "2022-03-24"
+  },
+  {
+    "id": 346,
+    "doenca": "Dengue",
+    "casos": 198,
+    "cidade": "Tampere",
+    "regiao": "Centro Oeste",
+    "date": "2022-03-19"
+  },
+  {
+    "id": 347,
+    "doenca": "Dengue",
+    "casos": 287,
+    "cidade": "Pelotas",
+    "regiao": "Sudeste",
+    "date": "2022-03-18"
+  },
+  {
+    "id": 348,
+    "doenca": "Malaria",
+    "casos": 867,
+    "cidade": "Castries",
+    "regiao": "Nordeste",
+    "date": "2022-03-24"
+  },
+  {
+    "id": 349,
+    "doenca": "Zika",
+    "casos": 141,
+    "cidade": "Avarua",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-17"
+  },
+  {
+    "id": 350,
+    "doenca": "Zika",
+    "casos": 122,
+    "cidade": "Nassau",
+    "regiao": "Nordeste",
+    "date": "2022-01-02"
+  },
+  {
+    "id": 351,
+    "doenca": "Dengue",
+    "casos": 590,
+    "cidade": "Livingstone",
+    "regiao": "Nordeste",
+    "date": "2022-03-17"
+  },
+  {
+    "id": 352,
+    "doenca": "Dengue",
+    "casos": 815,
+    "cidade": "Castries",
+    "regiao": "Nordeste",
+    "date": "2022-02-22"
+  },
+  {
+    "id": 353,
+    "doenca": "Zika",
+    "casos": 723,
+    "cidade": "Denver",
+    "regiao": "Sudeste",
+    "date": "2022-02-20"
+  },
+  {
+    "id": 354,
+    "doenca": "Zika",
+    "casos": 770,
+    "cidade": "Damascus",
+    "regiao": "Sul",
+    "date": "2022-01-09"
+  },
+  {
+    "id": 355,
+    "doenca": "Zika",
+    "casos": 606,
+    "cidade": "Almaty",
+    "regiao": "Norte",
+    "date": "2022-01-11"
+  },
+  {
+    "id": 356,
+    "doenca": "Malaria",
+    "casos": 735,
+    "cidade": "Calama",
+    "regiao": "Norte",
+    "date": "2022-03-03"
+  },
+  {
+    "id": 357,
+    "doenca": "Zika",
+    "casos": 367,
+    "cidade": "Naples",
+    "regiao": "Sul",
+    "date": "2022-01-30"
+  },
+  {
+    "id": 358,
+    "doenca": "Malaria",
+    "casos": 5,
+    "cidade": "Blantyre",
+    "regiao": "Nordeste",
+    "date": "2022-02-09"
+  },
+  {
+    "id": 359,
+    "doenca": "Dengue",
+    "casos": 201,
+    "cidade": "Calgary",
+    "regiao": "Nordeste",
+    "date": "2022-03-17"
+  },
+  {
+    "id": 360,
+    "doenca": "Zika",
+    "casos": 622,
+    "cidade": "City of Halifax",
+    "regiao": "Norte",
+    "date": "2022-03-20"
+  },
+  {
+    "id": 361,
+    "doenca": "Dengue",
+    "casos": 588,
+    "cidade": "Cincinnati",
+    "regiao": "Norte",
+    "date": "2022-01-31"
+  },
+  {
+    "id": 362,
+    "doenca": "Dengue",
+    "casos": 671,
+    "cidade": "Islamabad",
+    "regiao": "Nordeste",
+    "date": "2022-01-31"
+  },
+  {
+    "id": 363,
+    "doenca": "Dengue",
+    "casos": 103,
+    "cidade": "Tehran",
+    "regiao": "Sudeste",
+    "date": "2022-02-20"
+  },
+  {
+    "id": 364,
+    "doenca": "Malaria",
+    "casos": 650,
+    "cidade": "Minneapolis",
+    "regiao": "Norte",
+    "date": "2022-03-11"
+  },
+  {
+    "id": 365,
+    "doenca": "Dengue",
+    "casos": 660,
+    "cidade": "Omdurman",
+    "regiao": "Nordeste",
+    "date": "2022-03-22"
+  },
+  {
+    "id": 366,
+    "doenca": "Dengue",
+    "casos": 154,
+    "cidade": "Lyon",
+    "regiao": "Nordeste",
+    "date": "2022-02-16"
+  },
+  {
+    "id": 367,
+    "doenca": "Zika",
+    "casos": 833,
+    "cidade": "Astana",
+    "regiao": "Norte",
+    "date": "2022-02-03"
+  },
+  {
+    "id": 368,
+    "doenca": "Malaria",
+    "casos": 772,
+    "cidade": "Nagoya",
+    "regiao": "Sudeste",
+    "date": "2022-03-24"
+  },
+  {
+    "id": 369,
+    "doenca": "Malaria",
+    "casos": 705,
+    "cidade": "Anadyr (town)",
+    "regiao": "Centro Oeste",
+    "date": "2022-03-24"
+  },
+  {
+    "id": 370,
+    "doenca": "Malaria",
+    "casos": 409,
+    "cidade": "Sana'a",
+    "regiao": "Sul",
+    "date": "2022-01-25"
+  },
+  {
+    "id": 371,
+    "doenca": "Zika",
+    "casos": 453,
+    "cidade": "Los Angeles",
+    "regiao": "Sudeste",
+    "date": "2022-02-13"
+  },
+  {
+    "id": 372,
+    "doenca": "Dengue",
+    "casos": 917,
+    "cidade": "Frankfurt",
+    "regiao": "Sul",
+    "date": "2022-03-29"
+  },
+  {
+    "id": 373,
+    "doenca": "Zika",
+    "casos": 96,
+    "cidade": "Jaipur",
+    "regiao": "Sul",
+    "date": "2022-02-21"
+  },
+  {
+    "id": 374,
+    "doenca": "Malaria",
+    "casos": 374,
+    "cidade": "Tallinn",
+    "regiao": "Sul",
+    "date": "2022-02-13"
+  },
+  {
+    "id": 375,
+    "doenca": "Zika",
+    "casos": 913,
+    "cidade": "Rotterdam",
+    "regiao": "Nordeste",
+    "date": "2022-02-22"
+  },
+  {
+    "id": 376,
+    "doenca": "Dengue",
+    "casos": 96,
+    "cidade": "Yakutsk",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-23"
+  },
+  {
+    "id": 377,
+    "doenca": "Zika",
+    "casos": 156,
+    "cidade": "Forked River",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-23"
+  },
+  {
+    "id": 378,
+    "doenca": "Zika",
+    "casos": 329,
+    "cidade": "Sucre",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-28"
+  },
+  {
+    "id": 379,
+    "doenca": "Zika",
+    "casos": 7,
+    "cidade": "Port Said",
+    "regiao": "Sul",
+    "date": "2022-02-06"
+  },
+  {
+    "id": 380,
+    "doenca": "Dengue",
+    "casos": 57,
+    "cidade": "Cairns",
+    "regiao": "Nordeste",
+    "date": "2022-03-23"
+  },
+  {
+    "id": 381,
+    "doenca": "Dengue",
+    "casos": 54,
+    "cidade": "Majuro",
+    "regiao": "Nordeste",
+    "date": "2022-02-19"
+  },
+  {
+    "id": 382,
+    "doenca": "Zika",
+    "casos": 292,
+    "cidade": "Cork (city)",
+    "regiao": "Norte",
+    "date": "2022-02-25"
+  },
+  {
+    "id": 383,
+    "doenca": "Malaria",
+    "casos": 441,
+    "cidade": "Quebec City",
+    "regiao": "Nordeste",
+    "date": "2022-03-19"
+  },
+  {
+    "id": 384,
+    "doenca": "Malaria",
+    "casos": 94,
+    "cidade": "Leeds",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-06"
+  },
+  {
+    "id": 385,
+    "doenca": "Dengue",
+    "casos": 224,
+    "cidade": "Gangtok",
+    "regiao": "Sul",
+    "date": "2022-02-28"
+  },
+  {
+    "id": 386,
+    "doenca": "Malaria",
+    "casos": 890,
+    "cidade": "Avarua",
+    "regiao": "Nordeste",
+    "date": "2022-03-13"
+  },
+  {
+    "id": 387,
+    "doenca": "Malaria",
+    "casos": 1,
+    "cidade": "Yaren District",
+    "regiao": "Nordeste",
+    "date": "2022-01-08"
+  },
+  {
+    "id": 388,
+    "doenca": "Zika",
+    "casos": 71,
+    "cidade": "Calgary",
+    "regiao": "Sul",
+    "date": "2022-03-20"
+  },
+  {
+    "id": 389,
+    "doenca": "Dengue",
+    "casos": 80,
+    "cidade": "Guwahati",
+    "regiao": "Norte",
+    "date": "2022-02-12"
+  },
+  {
+    "id": 390,
+    "doenca": "Zika",
+    "casos": 419,
+    "cidade": "Oslo",
+    "regiao": "Nordeste",
+    "date": "2022-01-14"
+  },
+  {
+    "id": 391,
+    "doenca": "Dengue",
+    "casos": 177,
+    "cidade": "Berlin",
+    "regiao": "Norte",
+    "date": "2022-02-27"
+  },
+  {
+    "id": 392,
+    "doenca": "Zika",
+    "casos": 454,
+    "cidade": "Ushuaia",
+    "regiao": "Norte",
+    "date": "2022-01-11"
+  },
+  {
+    "id": 393,
+    "doenca": "Zika",
+    "casos": 999,
+    "cidade": "Zürich",
+    "regiao": "Nordeste",
+    "date": "2022-03-13"
+  },
+  {
+    "id": 394,
+    "doenca": "Zika",
+    "casos": 394,
+    "cidade": "Paris",
+    "regiao": "Centro Oeste",
+    "date": "2022-03-01"
+  },
+  {
+    "id": 395,
+    "doenca": "Malaria",
+    "casos": 477,
+    "cidade": "Horta (Azores)",
+    "regiao": "Nordeste",
+    "date": "2022-03-18"
+  },
+  {
+    "id": 396,
+    "doenca": "Dengue",
+    "casos": 837,
+    "cidade": "Almaty",
+    "regiao": "Norte",
+    "date": "2022-01-20"
+  },
+  {
+    "id": 397,
+    "doenca": "Malaria",
+    "casos": 83,
+    "cidade": "Hai Phong",
+    "regiao": "Sudeste",
+    "date": "2022-01-04"
+  },
+  {
+    "id": 398,
+    "doenca": "Zika",
+    "casos": 605,
+    "cidade": "Padang",
+    "regiao": "Sudeste",
+    "date": "2022-02-12"
+  },
+  {
+    "id": 399,
+    "doenca": "Malaria",
+    "casos": 214,
+    "cidade": "Hobart",
+    "regiao": "Nordeste",
+    "date": "2022-01-20"
+  },
+  {
+    "id": 400,
+    "doenca": "Dengue",
+    "casos": 571,
+    "cidade": "Abidjan",
+    "regiao": "Nordeste",
+    "date": "2022-01-06"
+  },
+  {
+    "id": 401,
+    "doenca": "Malaria",
+    "casos": 183,
+    "cidade": "Memphis",
+    "regiao": "Sul",
+    "date": "2022-01-02"
+  },
+  {
+    "id": 402,
+    "doenca": "Zika",
+    "casos": 289,
+    "cidade": "Tartu",
+    "regiao": "Sul",
+    "date": "2022-01-08"
+  },
+  {
+    "id": 403,
+    "doenca": "Dengue",
+    "casos": 264,
+    "cidade": "Casablanca",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-13"
+  },
+  {
+    "id": 404,
+    "doenca": "Zika",
+    "casos": 888,
+    "cidade": "Lyon",
+    "regiao": "Centro Oeste",
+    "date": "2022-03-26"
+  },
+  {
+    "id": 405,
+    "doenca": "Malaria",
+    "casos": 624,
+    "cidade": "Gothenburg",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-29"
+  },
+  {
+    "id": 406,
+    "doenca": "Dengue",
+    "casos": 177,
+    "cidade": "Sri Jayawardenapura-Kotte",
+    "regiao": "Norte",
+    "date": "2022-03-14"
+  },
+  {
+    "id": 407,
+    "doenca": "Malaria",
+    "casos": 640,
+    "cidade": "Arequipa",
+    "regiao": "Norte",
+    "date": "2022-01-17"
+  },
+  {
+    "id": 408,
+    "doenca": "Zika",
+    "casos": 293,
+    "cidade": "Chongqing",
+    "regiao": "Sul",
+    "date": "2022-01-20"
+  },
+  {
+    "id": 409,
+    "doenca": "Dengue",
+    "casos": 754,
+    "cidade": "Rawalpindi",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-27"
+  },
+  {
+    "id": 410,
+    "doenca": "Zika",
+    "casos": 272,
+    "cidade": "Albuquerque",
+    "regiao": "Nordeste",
+    "date": "2022-02-13"
+  },
+  {
+    "id": 411,
+    "doenca": "Dengue",
+    "casos": 683,
+    "cidade": "Frankfurt",
+    "regiao": "Sul",
+    "date": "2022-02-24"
+  },
+  {
+    "id": 412,
+    "doenca": "Zika",
+    "casos": 362,
+    "cidade": "Lilongwe",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-17"
+  },
+  {
+    "id": 413,
+    "doenca": "Zika",
+    "casos": 433,
+    "cidade": "Bern",
+    "regiao": "Nordeste",
+    "date": "2022-01-06"
+  },
+  {
+    "id": 414,
+    "doenca": "Malaria",
+    "casos": 197,
+    "cidade": "Busan",
+    "regiao": "Sul",
+    "date": "2022-01-26"
+  },
+  {
+    "id": 415,
+    "doenca": "Malaria",
+    "casos": 755,
+    "cidade": "Ankara",
+    "regiao": "Sul",
+    "date": "2022-02-16"
+  },
+  {
+    "id": 416,
+    "doenca": "Dengue",
+    "casos": 465,
+    "cidade": "Pago Pago",
+    "regiao": "Norte",
+    "date": "2022-02-13"
+  },
+  {
+    "id": 417,
+    "doenca": "Malaria",
+    "casos": 531,
+    "cidade": "Malang",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-28"
+  },
+  {
+    "id": 418,
+    "doenca": "Zika",
+    "casos": 983,
+    "cidade": "Hong Kong",
+    "regiao": "Nordeste",
+    "date": "2022-02-04"
+  },
+  {
+    "id": 419,
+    "doenca": "Zika",
+    "casos": 106,
+    "cidade": "Sydney",
+    "regiao": "Sul",
+    "date": "2022-03-08"
+  },
+  {
+    "id": 420,
+    "doenca": "Dengue",
+    "casos": 395,
+    "cidade": "Cairns",
+    "regiao": "Centro Oeste",
+    "date": "2022-03-28"
+  },
+  {
+    "id": 421,
+    "doenca": "Zika",
+    "casos": 76,
+    "cidade": "Wichita",
+    "regiao": "Sudeste",
+    "date": "2022-02-09"
+  },
+  {
+    "id": 422,
+    "doenca": "Dengue",
+    "casos": 11,
+    "cidade": "Johor Bahru",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-25"
+  },
+  {
+    "id": 423,
+    "doenca": "Malaria",
+    "casos": 687,
+    "cidade": "Jersey City",
+    "regiao": "Sul",
+    "date": "2022-03-24"
+  },
+  {
+    "id": 424,
+    "doenca": "Dengue",
+    "casos": 527,
+    "cidade": "Makassar",
+    "regiao": "Sul",
+    "date": "2022-03-11"
+  },
+  {
+    "id": 425,
+    "doenca": "Dengue",
+    "casos": 995,
+    "cidade": "Moscow",
+    "regiao": "Sudeste",
+    "date": "2022-01-03"
+  },
+  {
+    "id": 426,
+    "doenca": "Malaria",
+    "casos": 285,
+    "cidade": "Surat Thani",
+    "regiao": "Nordeste",
+    "date": "2022-01-18"
+  },
+  {
+    "id": 427,
+    "doenca": "Zika",
+    "casos": 604,
+    "cidade": "Kigali",
+    "regiao": "Sudeste",
+    "date": "2022-01-13"
+  },
+  {
+    "id": 428,
+    "doenca": "Dengue",
+    "casos": 118,
+    "cidade": "Hagåtña",
+    "regiao": "Nordeste",
+    "date": "2022-02-18"
+  },
+  {
+    "id": 429,
+    "doenca": "Dengue",
+    "casos": 228,
+    "cidade": "Bishkek",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-22"
+  },
+  {
+    "id": 430,
+    "doenca": "Malaria",
+    "casos": 238,
+    "cidade": "Tórshavn",
+    "regiao": "Nordeste",
+    "date": "2022-03-01"
+  },
+  {
+    "id": 431,
+    "doenca": "Zika",
+    "casos": 151,
+    "cidade": "Tagbilaran",
+    "regiao": "Norte",
+    "date": "2022-02-16"
+  },
+  {
+    "id": 432,
+    "doenca": "Malaria",
+    "casos": 454,
+    "cidade": "Yaoundé",
+    "regiao": "Sudeste",
+    "date": "2022-01-20"
+  },
+  {
+    "id": 433,
+    "doenca": "Zika",
+    "casos": 501,
+    "cidade": "Amsterdam",
+    "regiao": "Nordeste",
+    "date": "2022-01-03"
+  },
+  {
+    "id": 434,
+    "doenca": "Zika",
+    "casos": 381,
+    "cidade": "Belize City",
+    "regiao": "Sudeste",
+    "date": "2022-02-19"
+  },
+  {
+    "id": 435,
+    "doenca": "Dengue",
+    "casos": 996,
+    "cidade": "Tunis",
+    "regiao": "Nordeste",
+    "date": "2022-01-22"
+  },
+  {
+    "id": 436,
+    "doenca": "Malaria",
+    "casos": 452,
+    "cidade": "Kiev",
+    "regiao": "Nordeste",
+    "date": "2022-03-07"
+  },
+  {
+    "id": 437,
+    "doenca": "Dengue",
+    "casos": 845,
+    "cidade": "Espoo",
+    "regiao": "Norte",
+    "date": "2022-02-01"
+  },
+  {
+    "id": 438,
+    "doenca": "Zika",
+    "casos": 782,
+    "cidade": "Kaohsiung",
+    "regiao": "Nordeste",
+    "date": "2022-01-12"
+  },
+  {
+    "id": 439,
+    "doenca": "Malaria",
+    "casos": 720,
+    "cidade": "Okinawa",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-15"
+  },
+  {
+    "id": 440,
+    "doenca": "Dengue",
+    "casos": 803,
+    "cidade": "Timbuktu",
+    "regiao": "Centro Oeste",
+    "date": "2022-03-28"
+  },
+  {
+    "id": 441,
+    "doenca": "Malaria",
+    "casos": 256,
+    "cidade": "Saint-Pierre",
+    "regiao": "Sudeste",
+    "date": "2022-02-28"
+  },
+  {
+    "id": 442,
+    "doenca": "Dengue",
+    "casos": 370,
+    "cidade": "Marrakech",
+    "regiao": "Sul",
+    "date": "2022-03-18"
+  },
+  {
+    "id": 443,
+    "doenca": "Dengue",
+    "casos": 363,
+    "cidade": "Newcastle",
+    "regiao": "Norte",
+    "date": "2022-01-17"
+  },
+  {
+    "id": 444,
+    "doenca": "Zika",
+    "casos": 556,
+    "cidade": "Munich",
+    "regiao": "Norte",
+    "date": "2022-02-25"
+  },
+  {
+    "id": 445,
+    "doenca": "Dengue",
+    "casos": 258,
+    "cidade": "Mexico City",
+    "regiao": "Norte",
+    "date": "2022-03-28"
+  },
+  {
+    "id": 446,
+    "doenca": "Dengue",
+    "casos": 208,
+    "cidade": "Shenzhen",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-24"
+  },
+  {
+    "id": 447,
+    "doenca": "Zika",
+    "casos": 650,
+    "cidade": "Mumbai",
+    "regiao": "Sul",
+    "date": "2022-02-28"
+  },
+  {
+    "id": 448,
+    "doenca": "Malaria",
+    "casos": 606,
+    "cidade": "Providence",
+    "regiao": "Nordeste",
+    "date": "2022-03-29"
+  },
+  {
+    "id": 449,
+    "doenca": "Zika",
+    "casos": 644,
+    "cidade": "San Antonio",
+    "regiao": "Centro Oeste",
+    "date": "2022-03-02"
+  },
+  {
+    "id": 450,
+    "doenca": "Malaria",
+    "casos": 538,
+    "cidade": "Wichita",
+    "regiao": "Norte",
+    "date": "2022-01-08"
+  },
+  {
+    "id": 451,
+    "doenca": "Zika",
+    "casos": 377,
+    "cidade": "Chittagong",
+    "regiao": "Sudeste",
+    "date": "2022-03-24"
+  },
+  {
+    "id": 452,
+    "doenca": "Dengue",
+    "casos": 843,
+    "cidade": "Sabha",
+    "regiao": "Norte",
+    "date": "2022-02-21"
+  },
+  {
+    "id": 453,
+    "doenca": "Dengue",
+    "casos": 410,
+    "cidade": "Shigatse",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-26"
+  },
+  {
+    "id": 454,
+    "doenca": "Zika",
+    "casos": 265,
+    "cidade": "Panama City",
+    "regiao": "Norte",
+    "date": "2022-02-09"
+  },
+  {
+    "id": 455,
+    "doenca": "Dengue",
+    "casos": 785,
+    "cidade": "Lusaka",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-15"
+  },
+  {
+    "id": 456,
+    "doenca": "Dengue",
+    "casos": 410,
+    "cidade": "Curitiba",
+    "regiao": "Norte",
+    "date": "2022-03-08"
+  },
+  {
+    "id": 457,
+    "doenca": "Malaria",
+    "casos": 327,
+    "cidade": "Marseille",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-22"
+  },
+  {
+    "id": 458,
+    "doenca": "Malaria",
+    "casos": 949,
+    "cidade": "Avarua",
+    "regiao": "Sudeste",
+    "date": "2022-02-21"
+  },
+  {
+    "id": 459,
+    "doenca": "Dengue",
+    "casos": 645,
+    "cidade": "Kansas City",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-08"
+  },
+  {
+    "id": 460,
+    "doenca": "Malaria",
+    "casos": 108,
+    "cidade": "Podgorica",
+    "regiao": "Sul",
+    "date": "2022-03-07"
+  },
+  {
+    "id": 461,
+    "doenca": "Zika",
+    "casos": 431,
+    "cidade": "Bamako",
+    "regiao": "Norte",
+    "date": "2022-03-02"
+  },
+  {
+    "id": 462,
+    "doenca": "Zika",
+    "casos": 293,
+    "cidade": "Singapore",
+    "regiao": "Centro Oeste",
+    "date": "2022-03-15"
+  },
+  {
+    "id": 463,
+    "doenca": "Malaria",
+    "casos": 350,
+    "cidade": "Da Nang",
+    "regiao": "Sudeste",
+    "date": "2022-03-21"
+  },
+  {
+    "id": 464,
+    "doenca": "Dengue",
+    "casos": 238,
+    "cidade": "Nashville",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-14"
+  },
+  {
+    "id": 465,
+    "doenca": "Dengue",
+    "casos": 723,
+    "cidade": "Lisbon",
+    "regiao": "Sudeste",
+    "date": "2022-01-22"
+  },
+  {
+    "id": 466,
+    "doenca": "Dengue",
+    "casos": 814,
+    "cidade": "Mumbai",
+    "regiao": "Nordeste",
+    "date": "2022-03-11"
+  },
+  {
+    "id": 467,
+    "doenca": "Malaria",
+    "casos": 795,
+    "cidade": "Cincinnati",
+    "regiao": "Norte",
+    "date": "2022-02-03"
+  },
+  {
+    "id": 468,
+    "doenca": "Malaria",
+    "casos": 687,
+    "cidade": "Taichung",
+    "regiao": "Sudeste",
+    "date": "2022-03-23"
+  },
+  {
+    "id": 469,
+    "doenca": "Zika",
+    "casos": 133,
+    "cidade": "Regina",
+    "regiao": "Sudeste",
+    "date": "2022-03-17"
+  },
+  {
+    "id": 470,
+    "doenca": "Zika",
+    "casos": 904,
+    "cidade": "El Aaiún",
+    "regiao": "Sudeste",
+    "date": "2022-02-16"
+  },
+  {
+    "id": 471,
+    "doenca": "Dengue",
+    "casos": 530,
+    "cidade": "Malacca Town",
+    "regiao": "Sudeste",
+    "date": "2022-01-18"
+  },
+  {
+    "id": 472,
+    "doenca": "Dengue",
+    "casos": 50,
+    "cidade": "The Valley",
+    "regiao": "Norte",
+    "date": "2022-02-20"
+  },
+  {
+    "id": 473,
+    "doenca": "Malaria",
+    "casos": 549,
+    "cidade": "Kigali",
+    "regiao": "Sudeste",
+    "date": "2022-03-06"
+  },
+  {
+    "id": 474,
+    "doenca": "Malaria",
+    "casos": 276,
+    "cidade": "Bishkek",
+    "regiao": "Nordeste",
+    "date": "2022-01-02"
+  },
+  {
+    "id": 475,
+    "doenca": "Malaria",
+    "casos": 661,
+    "cidade": "Yangon",
+    "regiao": "Sul",
+    "date": "2022-02-06"
+  },
+  {
+    "id": 476,
+    "doenca": "Dengue",
+    "casos": 427,
+    "cidade": "Athens",
+    "regiao": "Norte",
+    "date": "2022-02-23"
+  },
+  {
+    "id": 477,
+    "doenca": "Zika",
+    "casos": 222,
+    "cidade": "Dededo",
+    "regiao": "Norte",
+    "date": "2022-02-27"
+  },
+  {
+    "id": 478,
+    "doenca": "Malaria",
+    "casos": 676,
+    "cidade": "Jeddah",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-06"
+  },
+  {
+    "id": 479,
+    "doenca": "Dengue",
+    "casos": 275,
+    "cidade": "Phoenix",
+    "regiao": "Norte",
+    "date": "2022-03-13"
+  },
+  {
+    "id": 480,
+    "doenca": "Dengue",
+    "casos": 854,
+    "cidade": "Beirut",
+    "regiao": "Centro Oeste",
+    "date": "2022-03-27"
+  },
+  {
+    "id": 481,
+    "doenca": "Malaria",
+    "casos": 460,
+    "cidade": "Yaoundé",
+    "regiao": "Norte",
+    "date": "2022-01-30"
+  },
+  {
+    "id": 482,
+    "doenca": "Zika",
+    "casos": 267,
+    "cidade": "Almaty",
+    "regiao": "Sudeste",
+    "date": "2022-03-09"
+  },
+  {
+    "id": 483,
+    "doenca": "Malaria",
+    "casos": 450,
+    "cidade": "Dunedin",
+    "regiao": "Nordeste",
+    "date": "2022-03-09"
+  },
+  {
+    "id": 484,
+    "doenca": "Malaria",
+    "casos": 357,
+    "cidade": "The Valley",
+    "regiao": "Sul",
+    "date": "2022-03-11"
+  },
+  {
+    "id": 485,
+    "doenca": "Malaria",
+    "casos": 11,
+    "cidade": "São Tomé",
+    "regiao": "Nordeste",
+    "date": "2022-02-25"
+  },
+  {
+    "id": 486,
+    "doenca": "Malaria",
+    "casos": 372,
+    "cidade": "Rochester",
+    "regiao": "Sul",
+    "date": "2022-01-09"
+  },
+  {
+    "id": 487,
+    "doenca": "Zika",
+    "casos": 777,
+    "cidade": "Astana",
+    "regiao": "Nordeste",
+    "date": "2022-03-23"
+  },
+  {
+    "id": 488,
+    "doenca": "Zika",
+    "casos": 216,
+    "cidade": "Montevideo",
+    "regiao": "Sul",
+    "date": "2022-03-01"
+  },
+  {
+    "id": 489,
+    "doenca": "Dengue",
+    "casos": 762,
+    "cidade": "Kuwait City",
+    "regiao": "Nordeste",
+    "date": "2022-03-25"
+  },
+  {
+    "id": 490,
+    "doenca": "Malaria",
+    "casos": 54,
+    "cidade": "Indianapolis",
+    "regiao": "Norte",
+    "date": "2022-03-17"
+  },
+  {
+    "id": 491,
+    "doenca": "Zika",
+    "casos": 264,
+    "cidade": "Helsinki",
+    "regiao": "Norte",
+    "date": "2022-03-22"
+  },
+  {
+    "id": 492,
+    "doenca": "Dengue",
+    "casos": 807,
+    "cidade": "Incheon",
+    "regiao": "Centro Oeste",
+    "date": "2022-03-17"
+  },
+  {
+    "id": 493,
+    "doenca": "Zika",
+    "casos": 21,
+    "cidade": "Thiès",
+    "regiao": "Norte",
+    "date": "2022-02-26"
+  },
+  {
+    "id": 494,
+    "doenca": "Dengue",
+    "casos": 143,
+    "cidade": "Quezon City",
+    "regiao": "Sul",
+    "date": "2022-03-28"
+  },
+  {
+    "id": 495,
+    "doenca": "Zika",
+    "casos": 357,
+    "cidade": "Adana",
+    "regiao": "Norte",
+    "date": "2022-03-13"
+  },
+  {
+    "id": 496,
+    "doenca": "Zika",
+    "casos": 274,
+    "cidade": "Nagoya",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-09"
+  },
+  {
+    "id": 497,
+    "doenca": "Malaria",
+    "casos": 135,
+    "cidade": "Managua",
+    "regiao": "Centro Oeste",
+    "date": "2022-01-23"
+  },
+  {
+    "id": 498,
+    "doenca": "Malaria",
+    "casos": 960,
+    "cidade": "Sana'a",
+    "regiao": "Sudeste",
+    "date": "2022-02-22"
+  },
+  {
+    "id": 499,
+    "doenca": "Malaria",
+    "casos": 611,
+    "cidade": "Phoenix",
+    "regiao": "Sul",
+    "date": "2022-01-07"
+  },
+  {
+    "id": 500,
+    "doenca": "Dengue",
+    "casos": 126,
+    "cidade": "Hagåtña",
+    "regiao": "Centro Oeste",
+    "date": "2022-02-13"
+  }
+]

@@ -48,8 +48,8 @@ function App() {
       <MainContentWrapper>
         {isHomeEnabled && (
           <>
-            <Chart />
             <Dataset />
+            <Chart />
           </>
         )}
         {isRegisterEnabled && <Register />}
