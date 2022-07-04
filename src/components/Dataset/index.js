@@ -1,6 +1,5 @@
 import React from 'react';
 import styled from 'styled-components';
-
 import { DataGrid } from '@mui/x-data-grid';
 
 import Database from '../../assets/database.json';
@@ -29,12 +28,6 @@ const columns = [
     headerName: 'Casos',
     type: 'number',
     width: 110,
-    editable: true
-  },
-  {
-    field: 'cidade',
-    headerName: 'Cidade',
-    width: 150,
     editable: true
   },
   {
@@ -76,7 +69,69 @@ const Dataset = () => {
                     {
                       columnField: 'doenca',
                       operatorValue: 'contains',
-                      value: 'zika'
+                      value: 'Zika'
+                    }
+                  ]
+                }
+              },
+              sorting: {
+                sortModel: [{ field: 'date', sort: 'asc' }]
+              }
+            }}
+          />
+        </DatasetWrapper>
+      </DatasetAreaWrapper>
+
+      <DatasetAreaWrapper>
+        <h2>Dengue</h2>
+
+        <DatasetWrapper>
+          <DataGrid
+            rows={rows}
+            columns={columns}
+            pageSize={5}
+            rowsPerPageOptions={[5]}
+            checkboxSelection
+            disableSelectionOnClick
+            initialState={{
+              filter: {
+                filterModel: {
+                  items: [
+                    {
+                      columnField: 'doenca',
+                      operatorValue: 'contains',
+                      value: 'Dengue'
+                    }
+                  ]
+                }
+              },
+              sorting: {
+                sortModel: [{ field: 'date', sort: 'asc' }]
+              }
+            }}
+          />
+        </DatasetWrapper>
+      </DatasetAreaWrapper>
+
+      <DatasetAreaWrapper>
+        <h2>Malária</h2>
+
+        <DatasetWrapper>
+          <DataGrid
+            rows={rows}
+            columns={columns}
+            pageSize={5}
+            rowsPerPageOptions={[5]}
+            checkboxSelection
+            disableSelectionOnClick
+            initialState={{
+              filter: {
+                filterModel: {
+                  items: [
+                    {
+                      columnField: 'doenca',
+                      operatorValue: 'contains',
+                      value: 'Malaria'
                     }
                   ]
                 }
